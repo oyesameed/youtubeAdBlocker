@@ -1,3 +1,4 @@
-.ytp-ad-overlay-container, #player-ads {
+/* Hide video popup and suggestions ad */
+.ytp-ad-overlay-container, #player-ads, .sparkles-light-cta {
   display: none !important;
 }
